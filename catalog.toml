@@ -1,0 +1,28 @@
+# Все товары, варианты и цены в рублях находятся здесь.
+# После изменения перезапустите бота. Подтвержденные заказы сохраняют свою цену.
+
+[products.magazine]
+title = "Журнал"
+
+[products.magazine.variants.12]
+title = "12 страниц"
+price = 2000
+
+[products.magazine.variants.16]
+title = "16 страниц"
+price = 2350
+
+[products.magazine.variants.20]
+title = "20 страниц"
+price = 2650
+
+[products.magazine.variants.24]
+title = "24 страницы"
+price = 2950
+
+[products.collage]
+title = "Коллаж"
+
+[products.collage.variants.a4]
+title = "Формат A4 + рамка"
+price = 1700
