@@ -10,3 +10,17 @@ data/
 logs/
 .ruff_cache/
 AGENTS.MD
+
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+logs/
+*.db
+*.db-*
+*.sqlite*
+/Best_gift_bot/
